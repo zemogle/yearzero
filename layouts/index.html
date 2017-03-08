@@ -1,0 +1,24 @@
+{{ partial "header.html" . }}
+
+
+    <div class="tilted">
+      <div class="col-md-4">
+        {{ range .Data.Pages }}
+        {{ if in .Params.tags "home" }}
+            {{ .Content }}
+        {{ end }}
+        {{ end }}
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-offset-4 col-md-8">
+
+      <ul class="navbar-list">{{ range .Site.Menus.main }}<li class="navbar-item"><a class="navbar-link" href="{{ .URL | absURL }}">{{ .Name }}</a></li>{{ end }}</ul>
+
+      <a href="/contact.html" class="btn my-btn"><i class="fa fa-paper-plane"></i> Contact</a>
+      <a href="/when.html" class="btn my-btn"><i class="fa fa-calendar"></i> When</a>
+    </div>
+  </div>
+</div>
+
+{{ partial "footer.html" . }}

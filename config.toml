@@ -1,0 +1,42 @@
+BaseUrl= "http://www.yearzero.space/"
+LanguageCode= "en-GB"
+Title= "Year Zero"
+paginate = 5
+Copyright = "Copyright 2017 - Dark Matter Sheep"
+canonifyurls = true
+
+[permalinks]
+
+    # Permalink format for pages.
+    page = "/:title/"
+
+    # Permalink format for blog posts.
+    post = "/news/:title/"
+
+[params]
+  description = "2017 is Year Zero because that's when life begins, so I'm told"
+  cover = "images/cover.jpg"
+  logo = "/static/images/year_zero.png"
+  googleAnalyticsUserID = "UA-79101-12"
+  hideHUGOSupport = true
+  DateForm = ""
+  twitter = "http://twitter.com/#yearzero"
+  colorscheme = "teal"
+
+[Date]
+    Format = "yyyy-mm-dd"
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Who?"
+    url = "/who/"
+    weight = 1
+
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 3
