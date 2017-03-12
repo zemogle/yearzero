@@ -1,24 +1,63 @@
-{{ partial "header.html" . }}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>2017 is Year Zero</title>
+  <meta name="description" content="">
+  <meta name="author" content="Edward Gomez">
+  <link rel="icon" href='/images/favicon.png'>
 
 
+  <!-- Bootstrap core CSS -->
+  <link href="/css/bootstrap.min.css" rel="stylesheet" />
+
+  <!-- Custom styles for this template -->
+  <link href="/css/styles.css" rel="stylesheet" />
+
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  <script src="https://use.fontawesome.com/abab3ee112.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+  <title>
+    {{ if eq .URL "/" }}
+        {{ .Site.Title }}
+    {{ else }}
+        {{ .Title }} &middot; {{ .Site.Title }}
+    {{ end }}
+</title>
+</head>
+
+<body>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4">
+        <img src="/images/year_zero.png" alt="Year Zero logo" class="img-responsive center-block" />
+        <h1 class="masthead">When life begins</h1>
+      </div>
     <div class="tilted">
       <div class="col-md-4">
-        {{ range .Data.Pages }}
-        {{ if in .Params.tags "home" }}
-            {{ .Content }}
-        {{ end }}
-        {{ end }}
+        <h3>2017 is a momentous year. I was feeling a bit apprehensive about a particular date during this year. So much that I was really down about the whole year. I realised there was only 2 ways this could go: try to hide from it, or embrace it.</h3>
+        <p>In 2017, I'm going to be 40 and I'm ok about that. I'm actually quite proud all of the great things I've done, friendships I've made, wonderful sights I've seen, and all the fun I've had since 1977.</p>
+      </div>
+      <div class="col-md-4">
+        <p>I can fully appreciate what it was like to be kid in 1980's. I understand pop culture references to 80's TV programmes and computer games. I remember the Danger Mouse, Knightrider, and the A-team, before any reboots. I remember Doctor Who when
+          the sets wobbled and the aliens were made from bubble wrap. I remember crazy kids TV like Count Duckula, T-Bag, Number 73, and Jamie's Magic Torch. I remember computer games that came on tapes which sang you a 7 minute song while they loaded.</p>
+        <p>If you've been feeling like you want to hide away from this year and this birthday, please don't. It really won't get any easier as you get older. What we can do, is make 2017 an amazing year. We have the opportunity to celebrate at every event
+          we go to and with everything we do.</p>
+        <p>Let's do it.</p>
     </div>
   </div>
   <div class="row">
-    <div class="col-md-offset-4 col-md-8">
-
-      <ul class="navbar-list">{{ range .Site.Menus.main }}<li class="navbar-item"><a class="navbar-link" href="{{ .URL | absURL }}">{{ .Name }}</a></li>{{ end }}</ul>
-
-      <a href="/contact.html" class="btn my-btn"><i class="fa fa-paper-plane"></i> Contact</a>
-      <a href="/when.html" class="btn my-btn"><i class="fa fa-calendar"></i> When</a>
-    </div>
-  </div>
+  {{ range .Site.Menus.main }}
+  <a href="{{ .URL | absURL }}" class="btn my-btn"><i class="fa {{.Identifier}}"></i> {{ .Name }}</a>
+  {{ end }}
+</div>
 </div>
 
 {{ partial "footer.html" . }}

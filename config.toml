@@ -29,14 +29,16 @@ canonifyurls = true
     name = "Home"
     url = "/"
     weight = 1
+    Identifier = ""
 
 [[menu.main]]
     name = "Who?"
     url = "/who/"
     weight = 1
-
+    Identifier = "fa-user-secret"
 
 [[menu.main]]
     name = "Contact"
     url = "/contact/"
     weight = 3
+    Identifier = "fa-paper-plane"

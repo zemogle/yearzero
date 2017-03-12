@@ -9,6 +9,11 @@ html, body{
     transform: rotate(5deg);
 }
 
+li {
+  font-size:1.2em;
+  list-style: none;
+}
+
 .my-btn {
 border: 2px solid;
 border-radius: 25px;

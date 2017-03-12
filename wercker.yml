@@ -3,7 +3,6 @@ build:
   steps:
     - arjen/hugo-build:
         version: 0.15
-        theme: skeleton
         flags: --disableSitemap=true
 deploy:
   steps:
@@ -11,5 +10,5 @@ deploy:
     - s3sync:
         key_id: $AWS_KEY_E
         key_secret: $AWS_KEY_SECRET_E
-        bucket_url: $AWS_BUCKET_U
+        bucket_url: $AWS_BUCKET_Z
         source_dir: public/
