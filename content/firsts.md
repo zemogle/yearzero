@@ -4,7 +4,6 @@ draft = false
 title = "Firsts"
 
 tags = ['firsts']
-categories['fa-star']
 +++
 
 ## New Firsts
