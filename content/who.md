@@ -12,6 +12,10 @@ There are lot of lucky people who are sharing Year Zero with me. You know who yo
 
 - <i class="fa fa-angle-right" aria-hidden="true"></i> Sarah Michelle Keller
 - <i class="fa fa-angle-right" aria-hidden="true"></i> Liv Tyler
+- <i class="fa fa-angle-right" aria-hidden="true"></i> Jessica Chastain
+- <i class="fa fa-angle-right" aria-hidden="true"></i> Michael Fassbender
+- <i class="fa fa-angle-right" aria-hidden="true"></i> Zachary Quinto
+- <i class="fa fa-angle-right" aria-hidden="true"></i> Tom Hardy
 
 ## Fictional People
 - <i class="fa fa-angle-right" aria-hidden="true"></i> Jessica Drew aka Spider Woman
