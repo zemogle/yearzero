@@ -37,6 +37,12 @@ canonifyurls = true
     weight = 1
     Identifier = "fa-user-secret"
 
+    [[menu.main]]
+        name = "Firsts"
+        url = "/firsts/"
+        weight = 1
+        Identifier = "fa-star"
+
 [[menu.main]]
     name = "Contact"
     url = "/contact/"
