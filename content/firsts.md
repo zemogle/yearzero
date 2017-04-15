@@ -12,7 +12,8 @@ Part of my ethic for Year Zero is to do new things. These are some of the new th
 
 <ul>
 <li><i class="fa fa-angle-right" aria-hidden="true"></i> Seminar at Harvard University</li>
-<li><i class="fa fa-angle-right" aria-hidden="true"></i> Review paper published</li>
+<li><i class="fa fa-angle-right" aria-hidden="true"></i> 10 April - Review paper published</li>
+<li><i class="fa fa-angle-right" aria-hidden="true"></i> 7 April - Appeared on Radio 1 Newsbeat talking about exoplanets</li>
 </ul>
 
 ## Old Firsts
