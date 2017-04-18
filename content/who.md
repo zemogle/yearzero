@@ -10,7 +10,7 @@ There are lot of lucky people who are sharing Year Zero with me. You know who yo
 
 ## Real People
 
-- <i class="fa fa-angle-right" aria-hidden="true"></i> Sarah Michelle Keller
+- <i class="fa fa-angle-right" aria-hidden="true"></i> Sarah Michelle Gellar
 - <i class="fa fa-angle-right" aria-hidden="true"></i> Liv Tyler
 - <i class="fa fa-angle-right" aria-hidden="true"></i> Jessica Chastain
 - <i class="fa fa-angle-right" aria-hidden="true"></i> Michael Fassbender
@@ -18,9 +18,14 @@ There are lot of lucky people who are sharing Year Zero with me. You know who yo
 - <i class="fa fa-angle-right" aria-hidden="true"></i> Tom Hardy
 
 ## Fictional People
-- <i class="fa fa-angle-right" aria-hidden="true"></i> Jessica Drew aka Spider Woman
+- <i class="fa fa-angle-right" aria-hidden="true"></i> [Jessica Drew aka Spider Woman](http://marvel.wikia.com/wiki/Jessica_Drew_(Earth-616))
 - <i class="fa fa-angle-right" aria-hidden="true"></i> Judge Dredd
 
 
 ## Things
 - <i class="fa fa-angle-right" aria-hidden="true"></i> [Voyager 1 and 2 spacecrafts](https://en.wikipedia.org/wiki/Voyager_program)
+- <i class="fa fa-angle-right" aria-hidden="true"></i> [Apple II home computer](https://en.wikipedia.org/wiki/Apple_II)
+
+## Discoveries
+- <i class="fa fa-angle-right" aria-hidden="true"></i> [Wow! signal](https://en.wikipedia.org/wiki/Wow!_signal)
+- <i class="fa fa-angle-right" aria-hidden="true"></i> [Legionnaires' disease bacteria](https://en.wikipedia.org/wiki/Legionnaires%27_disease)
