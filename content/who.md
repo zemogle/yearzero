@@ -25,6 +25,7 @@ There are lot of lucky people who are sharing Year Zero with me. You know who yo
 ## Things
 - <i class="fa fa-angle-right" aria-hidden="true"></i> [Voyager 1 and 2 spacecrafts](https://en.wikipedia.org/wiki/Voyager_program)
 - <i class="fa fa-angle-right" aria-hidden="true"></i> [Apple II home computer](https://en.wikipedia.org/wiki/Apple_II)
+- <i class="fa fa-angle-right" aria-hidden="true"></i> [Star Wars](https://en.wikipedia.org/wiki/Star_Wars_(film))
 
 ## Discoveries
 - <i class="fa fa-angle-right" aria-hidden="true"></i> [Wow! signal](https://en.wikipedia.org/wiki/Wow!_signal)
