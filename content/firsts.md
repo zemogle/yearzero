@@ -11,10 +11,12 @@ tags = ['firsts']
 Part of my ethic for Year Zero is to do new things. These are some of the new things that I've done and new things I've achieved.
 
 <ul>
-<li><i class="fa fa-angle-right" aria-hidden="true"></i> Seminar at Harvard University</li>
-<li><i class="fa fa-angle-right" aria-hidden="true"></i> Review paper published (on [Robotic Telescopes in Education](http://www.tandfonline.com/doi/full/10.1080/21672857.2017.1303264))</li>
-<li><i class="fa fa-angle-right" aria-hidden="true"></i> Hiked to the top of Snowdon</li>
-<li><i class="fa fa-angle-right" aria-hidden="true"></i> Saw Alien in the undercroft of Cardiff Castle</li>
+<li><i class="fa fa-angle-right" aria-hidden="true"></i> 15 February - Seminar at Harvard University</li>
+<li><i class="fa fa-angle-right" aria-hidden="true"></i> 10 April -  Review paper published (on [Robotic Telescopes in Education](http://www.tandfonline.com/doi/full/10.1080/21672857.2017.1303264))</li>
+<li><i class="fa fa-angle-right" aria-hidden="true"></i> 7 April - Appeared on Radio 1 Newsbeat talking about exoplanets</li>
+<li><i class="fa fa-angle-right" aria-hidden="true"></i> 5 May - Hiked to the top of Snowdon</li>
+<li><i class="fa fa-angle-right" aria-hidden="true"></i> 27 May - Saw [Alien](https://en.wikipedia.org/wiki/Alien_(film)) in the undercroft of Cardiff Castle</li>
+
 </ul>
 
 ## Old Firsts
