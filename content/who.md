@@ -18,15 +18,18 @@ There are lot of lucky people who are sharing Year Zero with me. You know who yo
 - <i class="fa fa-angle-right" aria-hidden="true"></i> Tom Hardy
 
 ## Fictional People
-- <i class="fa fa-angle-right" aria-hidden="true"></i> [Jessica Drew aka Spider Woman](http://marvel.wikia.com/wiki/Jessica_Drew_(Earth-616))
+- <i class="fa fa-angle-right" aria-hidden="true"></i> [Jessica Drew aka Spider Woman][1]
 - <i class="fa fa-angle-right" aria-hidden="true"></i> Judge Dredd
 
 
 ## Things
 - <i class="fa fa-angle-right" aria-hidden="true"></i> [Voyager 1 and 2 spacecrafts](https://en.wikipedia.org/wiki/Voyager_program)
 - <i class="fa fa-angle-right" aria-hidden="true"></i> [Apple II home computer](https://en.wikipedia.org/wiki/Apple_II)
-- <i class="fa fa-angle-right" aria-hidden="true"></i> [Star Wars](https://en.wikipedia.org/wiki/Star_Wars_(film))
+- <i class="fa fa-angle-right" aria-hidden="true"></i> [Star Wars][2]
 
 ## Discoveries
 - <i class="fa fa-angle-right" aria-hidden="true"></i> [Wow! signal](https://en.wikipedia.org/wiki/Wow!_signal)
 - <i class="fa fa-angle-right" aria-hidden="true"></i> [Legionnaires' disease bacteria](https://en.wikipedia.org/wiki/Legionnaires%27_disease)
+
+[1]:http://marvel.wikia.com/wiki/Jessica_Drew_(Earth-616)
+[2]:https://en.wikipedia.org/wiki/Star_Wars_(film)
