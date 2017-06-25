@@ -15,6 +15,7 @@ Part of my ethic for Year Zero is to do new things. These are some of the new th
 - <i class="fa fa-angle-right" aria-hidden="true"></i> 7 April - Appeared on Radio 1 Newsbeat talking about exoplanets
 - <i class="fa fa-angle-right" aria-hidden="true"></i> 5 May - Hiked to the top of Snowdon
 - <i class="fa fa-angle-right" aria-hidden="true"></i> 27 May - Saw [Alien][1] in the undercroft of Cardiff Castle
+- <i class="fa fa-angle-right" aria-hidden="true"></i> 23 June - Visit to Disneyland, Anaheim, California
 
 
 ## Old Firsts
