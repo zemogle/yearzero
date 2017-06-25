@@ -26,5 +26,7 @@ There are plenty of things that I enjoy doing, which are significant. I'm going 
 - <i class="fa fa-angle-right" aria-hidden="true"></i> Radio Appearance - 14 March, Science Cafe, BBC Radio Wales
 - <i class="fa fa-angle-right" aria-hidden="true"></i> Trip to Leiden, Netherlands - 8 May, Python in Astronomy, Lorentz Centre
 - <i class="fa fa-angle-right" aria-hidden="true"></i> Trip to California (to LCO headquarters) - 1 June
+- <i class="fa fa-angle-right" aria-hidden="true"></i> Conference talk (at [Robotic Telescope, Student Research, and Education](http;//www.rtsre.org)) - 21 June, San Diego
+
 
 [1]:https://en.wikipedia.org/wiki/Alien_(film)
