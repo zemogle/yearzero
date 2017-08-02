@@ -19,6 +19,7 @@ There are lot of lucky people who are sharing Year Zero with me. You know who yo
 
 ## Fictional People
 - <i class="fa fa-angle-right" aria-hidden="true"></i> [Jessica Drew aka Spider Woman][1]
+- <i class="fa fa-angle-right" aria-hidden="true"></i> Carol Danvers aka Ms Marvel 
 - <i class="fa fa-angle-right" aria-hidden="true"></i> Judge Dredd
 
 
