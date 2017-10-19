@@ -15,9 +15,11 @@ Part of my ethic for Year Zero is to do new things. These are some of the new th
 - <i class="fa fa-angle-right" aria-hidden="true"></i> 7 April - Appeared on Radio 1 Newsbeat talking about exoplanets
 - <i class="fa fa-angle-right" aria-hidden="true"></i> 5 May - Hiked to the top of Snowdon
 - <i class="fa fa-angle-right" aria-hidden="true"></i> 27 May - Saw [Alien][1] in the undercroft of Cardiff Castle
-- <i class="fa fa-angle-right" aria-hidden="true"></i> 1 June - Traveleld in the HeathrowPod to Terminal 5
+- <i class="fa fa-angle-right" aria-hidden="true"></i> 1 June - Travelled in the HeathrowPod to Terminal 5
 - <i class="fa fa-angle-right" aria-hidden="true"></i> 23 June - Visit to Disneyland, Anaheim, California
-
+- <i class="fa fa-angle-right" aria-hidden="true"></i> 5 July - Trip to Norway and drank brandy from a hip-flask at the foot of a glacier
+- <i class="fa fa-angle-right" aria-hidden="true"></i> 8 September - Was under curfew because of a hurricane, Hurricane Irma, Orlando, Florida
+- <i class="fa fa-angle-right" aria-hidden="true"></i> 4 October - Visited Finland for a conference of 100 innovators in education, HundrED, Helsinki
 
 ## Old Firsts
 

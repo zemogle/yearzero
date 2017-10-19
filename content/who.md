@@ -19,8 +19,8 @@ There are lot of lucky people who are sharing Year Zero with me. You know who yo
 
 ## Fictional People
 - <i class="fa fa-angle-right" aria-hidden="true"></i> [Jessica Drew aka Spider Woman][1]
-- <i class="fa fa-angle-right" aria-hidden="true"></i> Carol Danvers aka Ms Marvel 
-- <i class="fa fa-angle-right" aria-hidden="true"></i> Judge Dredd
+- <i class="fa fa-angle-right" aria-hidden="true"></i> [Carol Danvers aka Ms Marvel aka Captain Marvel][3]
+- <i class="fa fa-angle-right" aria-hidden="true"></i> [Judge Dredd](https://en.wikipedia.org/wiki/Judge_Dredd)
 
 
 ## Things
@@ -34,3 +34,4 @@ There are lot of lucky people who are sharing Year Zero with me. You know who yo
 
 [1]:http://marvel.wikia.com/wiki/Jessica_Drew_(Earth-616)
 [2]:https://en.wikipedia.org/wiki/Star_Wars_(film)
+[3]:https://en.wikipedia.org/wiki/Carol_Danvers
