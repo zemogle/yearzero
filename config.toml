@@ -34,17 +34,17 @@ canonifyurls = true
 [[menu.main]]
     name = "Who?"
     url = "/who/"
-    weight = 1
+    weight = 2
     Identifier = "fa-user-secret"
 
     [[menu.main]]
         name = "Firsts"
         url = "/firsts/"
-        weight = 1
+        weight = 2
         Identifier = "fa-star"
 
-[[menu.main]]
-    name = "Contact"
-    url = "/contact/"
-    weight = 3
-    Identifier = "fa-paper-plane"
+    [[menu.main]]
+        name = "Where?"
+        url = "/where/"
+        weight = 3
+        Identifier = "fa-map-marker"
