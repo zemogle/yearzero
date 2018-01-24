@@ -5,6 +5,10 @@ html, body{
   color:#534741;
 }
 
+#map {
+  height:100%;
+}
+
 .tilted {
     transform: rotate(5deg);
 }
